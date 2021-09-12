@@ -8,4 +8,5 @@ package com.ruoyi.auth.controller;
  **/
 public class testController {
     //dev
+    //test-001-dev
 }
